@@ -2,7 +2,7 @@
 ## Projeto GitHub
 O projeto está disponível online através do GitHub Pages:
 
-[Projeto617](https://github.com/Kiztas/projeto617)
+[Projeto617](https://kiztas.github.io/projeto617/?v=3)
 
 
 ## Descrição
